@@ -11,8 +11,8 @@ const UserCard = ({ user }) => {
   return (
     <Card
       sx={{
-        minWidth: 360,
-        maxWidth: 360,
+        minWidth: 356,
+        maxWidth: 356,
         ":hover": {
           boxShadow: 20,
           cursor: "pointer",
