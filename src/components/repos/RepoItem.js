@@ -10,8 +10,8 @@ const RepoItem = ({ repo }) => {
   return (
     <Card
       sx={{
-        maxWidth: 345,
-        minWidth: 345,
+        maxWidth: 360,
+        minWidth: 360,
         marginBottom: 2,
         ":hover": {
           boxShadow: 20, // theme.shadows[20]
